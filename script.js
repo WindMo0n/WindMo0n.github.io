@@ -52,7 +52,7 @@ noButton.addEventListener("click", function () {
   if (clickCount === 1) mainImage.src = "images/小新.gif"; // 震惊
   if (clickCount === 2) mainImage.src = "images/小新0.jpg"; // 思考
   if (clickCount === 3) mainImage.src = "images/小新1.gif"; // 生气
-  if (clickCount === 4) mainImage.src = "images/小新我2.jpg"; // 哭
+  if (clickCount === 4) mainImage.src = "images/小新3.jpg"; // 哭
   if (clickCount >= 5) mainImage.src = "images/小新2.jpg"; // 之后一直是哭
 });
 
